@@ -1,7 +1,7 @@
 {
   "name": "sprint12",
   "version": "1.0.0",
-  "description": "",
+  "description": "YP sprint12",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
